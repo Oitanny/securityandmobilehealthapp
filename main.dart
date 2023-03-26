@@ -112,7 +112,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         fontSize: 20,
                       )),
                   Text(
-                    "Indian Cyber Security Solutions is an organization which caters to the need of technology based risk management & cyber security solution across the globe. ICSS was established in 2013 & by this time it has gathered a good deal of momentum and has reached a distinguished position out of the leading firms in this domain in the country.",
+                    "Cyber Security",
                     textAlign: TextAlign.center,
                   ),
                 ],
